@@ -1,6 +1,6 @@
-package chatserver;
+package model;
 
-import chatserver.ChatServer;
+import model.ChatServer;
 import java.net.*;
 import java.io.*;
 

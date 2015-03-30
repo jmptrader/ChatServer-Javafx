@@ -5,12 +5,12 @@
  */
 package controller;
 
-import chatserver.ChatServer;
+import model.ChatServer;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-import chatserver.NiochatServer;
-import chatserver.NiochatServer;
+import model.NiochatServer;
+import model.NiochatServer;
 import controller.ChatControl;
 import javafx.application.Application;
 import javafx.event.ActionEvent;

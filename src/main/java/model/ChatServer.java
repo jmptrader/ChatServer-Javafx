@@ -1,4 +1,4 @@
-package chatserver;
+package model;
 
 import java.net.*;
 import java.io.*;

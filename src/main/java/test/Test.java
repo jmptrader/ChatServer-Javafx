@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package chatserver;
+package test;
 
 import controller.ChatControl;
 import java.io.IOException;
