@@ -13,6 +13,8 @@ Usage : java - jar target / multichat -0.0.1 - SNAPSHOT . jar [ OPTION ]...
 
 -m , -- multicast start the client en multicast mode
 
--n , -- nio configure the server in NIO mode\n
+-n , -- nio configure the server in NIO mode
+
 -p , -- port = PORT set the port
+
 -s , -- server start the server
