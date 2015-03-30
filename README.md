@@ -1,6 +1,7 @@
 # ChatServer-Javafx
 ECE Advanced Java project
 
+
 Run the project using java - jar multichat-1.0-SNAPSHOT.jar (target repository)
 
 Usage : java - jar target / multichat -0.0.1 - SNAPSHOT . jar [ OPTION ]...
