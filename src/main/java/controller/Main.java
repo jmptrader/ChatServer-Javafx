@@ -73,7 +73,7 @@ public class Main extends Application {
         btn.setLayoutY(190);
         btn.setText("Join the chat ! ");
         btn.getStyleClass().add("bevel-grey");
-        
+        btn.getStylesheets().add(this.getClass().getResource("/styles/TextStyle.css").toExternalForm());
         btn.setOnAction(new EventHandler<ActionEvent>() {
 
         public void handle(ActionEvent event) {
